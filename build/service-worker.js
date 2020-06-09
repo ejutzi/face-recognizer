@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/face-recognizer/precache-manifest.9212141bcc6df4b300d97b84aaa60212.js"
+  "/face-recognizer/precache-manifest.cb57be76b13fa41e4e3642d7050c29c1.js"
 );
 
 self.addEventListener('message', (event) => {
